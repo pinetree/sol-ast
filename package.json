@@ -8,6 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "normalize": "^0.3.1",
+    "sol-explore": "^1.6.2",
+    "solidity-parser-antlr": "^0.3.2",
     "vue": "^2.5.17"
   },
   "devDependencies": {
